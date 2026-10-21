@@ -1,0 +1,49 @@
+ForecastTime,RainChance_pct,PredictedPrecip_mm,CollectionTime,City,Source,Source_URL,DaysAhead,PredictionType
+2026-10-21 12:00:00,0,0.0,2026-10-21 12:05,"Miami, FL",Open-Meteo Weather Forecast API,https://open-meteo.com/en/docs,0,Same Day
+2026-10-21 13:00:00,1,0.0,2026-10-21 12:05,"Miami, FL",Open-Meteo Weather Forecast API,https://open-meteo.com/en/docs,0,Same Day
+2026-10-21 14:00:00,1,0.0,2026-10-21 12:05,"Miami, FL",Open-Meteo Weather Forecast API,https://open-meteo.com/en/docs,0,Same Day
+2026-10-21 15:00:00,2,0.0,2026-10-21 12:05,"Miami, FL",Open-Meteo Weather Forecast API,https://open-meteo.com/en/docs,0,Same Day
+2026-10-21 16:00:00,1,0.0,2026-10-21 12:05,"Miami, FL",Open-Meteo Weather Forecast API,https://open-meteo.com/en/docs,0,Same Day
+2026-10-21 17:00:00,1,0.0,2026-10-21 12:05,"Miami, FL",Open-Meteo Weather Forecast API,https://open-meteo.com/en/docs,0,Same Day
+2026-10-21 18:00:00,2,0.0,2026-10-21 12:05,"Miami, FL",Open-Meteo Weather Forecast API,https://open-meteo.com/en/docs,0,Same Day
+2026-10-21 19:00:00,1,0.0,2026-10-21 12:05,"Miami, FL",Open-Meteo Weather Forecast API,https://open-meteo.com/en/docs,0,Same Day
+2026-10-21 20:00:00,0,0.0,2026-10-21 12:05,"Miami, FL",Open-Meteo Weather Forecast API,https://open-meteo.com/en/docs,0,Same Day
+2026-10-21 21:00:00,0,0.0,2026-10-21 12:05,"Miami, FL",Open-Meteo Weather Forecast API,https://open-meteo.com/en/docs,0,Same Day
+2026-10-21 22:00:00,1,0.0,2026-10-21 12:05,"Miami, FL",Open-Meteo Weather Forecast API,https://open-meteo.com/en/docs,0,Same Day
+2026-10-21 23:00:00,2,0.0,2026-10-21 12:05,"Miami, FL",Open-Meteo Weather Forecast API,https://open-meteo.com/en/docs,0,Same Day
+2026-10-22 00:00:00,2,0.0,2026-10-21 12:05,"Miami, FL",Open-Meteo Weather Forecast API,https://open-meteo.com/en/docs,1,Next Day
+2026-10-22 01:00:00,1,0.0,2026-10-21 12:05,"Miami, FL",Open-Meteo Weather Forecast API,https://open-meteo.com/en/docs,1,Next Day
+2026-10-22 02:00:00,1,0.0,2026-10-21 12:05,"Miami, FL",Open-Meteo Weather Forecast API,https://open-meteo.com/en/docs,1,Next Day
+2026-10-22 03:00:00,3,0.0,2026-10-21 12:05,"Miami, FL",Open-Meteo Weather Forecast API,https://open-meteo.com/en/docs,1,Next Day
+2026-10-22 04:00:00,2,0.0,2026-10-21 12:05,"Miami, FL",Open-Meteo Weather Forecast API,https://open-meteo.com/en/docs,1,Next Day
+2026-10-22 05:00:00,3,0.0,2026-10-21 12:05,"Miami, FL",Open-Meteo Weather Forecast API,https://open-meteo.com/en/docs,1,Next Day
+2026-10-22 06:00:00,8,0.0,2026-10-21 12:05,"Miami, FL",Open-Meteo Weather Forecast API,https://open-meteo.com/en/docs,1,Next Day
+2026-10-22 07:00:00,8,0.0,2026-10-21 12:05,"Miami, FL",Open-Meteo Weather Forecast API,https://open-meteo.com/en/docs,1,Next Day
+2026-10-22 08:00:00,9,0.0,2026-10-21 12:05,"Miami, FL",Open-Meteo Weather Forecast API,https://open-meteo.com/en/docs,1,Next Day
+2026-10-22 09:00:00,8,0.0,2026-10-21 12:05,"Miami, FL",Open-Meteo Weather Forecast API,https://open-meteo.com/en/docs,1,Next Day
+2026-10-22 10:00:00,11,0.0,2026-10-21 12:05,"Miami, FL",Open-Meteo Weather Forecast API,https://open-meteo.com/en/docs,1,Next Day
+2026-10-22 11:00:00,10,0.0,2026-10-21 12:05,"Miami, FL",Open-Meteo Weather Forecast API,https://open-meteo.com/en/docs,1,Next Day
+2026-10-22 12:00:00,12,0.0,2026-10-21 12:05,"Miami, FL",Open-Meteo Weather Forecast API,https://open-meteo.com/en/docs,1,Next Day
+2026-10-22 13:00:00,13,0.0,2026-10-21 12:05,"Miami, FL",Open-Meteo Weather Forecast API,https://open-meteo.com/en/docs,1,Next Day
+2026-10-22 14:00:00,17,0.0,2026-10-21 12:05,"Miami, FL",Open-Meteo Weather Forecast API,https://open-meteo.com/en/docs,1,Next Day
+2026-10-22 15:00:00,14,0.0,2026-10-21 12:05,"Miami, FL",Open-Meteo Weather Forecast API,https://open-meteo.com/en/docs,1,Next Day
+2026-10-22 16:00:00,11,0.0,2026-10-21 12:05,"Miami, FL",Open-Meteo Weather Forecast API,https://open-meteo.com/en/docs,1,Next Day
+2026-10-22 17:00:00,12,0.0,2026-10-21 12:05,"Miami, FL",Open-Meteo Weather Forecast API,https://open-meteo.com/en/docs,1,Next Day
+2026-10-22 18:00:00,7,0.0,2026-10-21 12:05,"Miami, FL",Open-Meteo Weather Forecast API,https://open-meteo.com/en/docs,1,Next Day
+2026-10-22 19:00:00,7,0.0,2026-10-21 12:05,"Miami, FL",Open-Meteo Weather Forecast API,https://open-meteo.com/en/docs,1,Next Day
+2026-10-22 20:00:00,21,0.0,2026-10-21 12:05,"Miami, FL",Open-Meteo Weather Forecast API,https://open-meteo.com/en/docs,1,Next Day
+2026-10-22 21:00:00,19,0.4,2026-10-21 12:05,"Miami, FL",Open-Meteo Weather Forecast API,https://open-meteo.com/en/docs,1,Next Day
+2026-10-22 22:00:00,17,0.0,2026-10-21 12:05,"Miami, FL",Open-Meteo Weather Forecast API,https://open-meteo.com/en/docs,1,Next Day
+2026-10-22 23:00:00,35,0.0,2026-10-21 12:05,"Miami, FL",Open-Meteo Weather Forecast API,https://open-meteo.com/en/docs,1,Next Day
+2026-10-23 00:00:00,35,0.0,2026-10-21 12:05,"Miami, FL",Open-Meteo Weather Forecast API,https://open-meteo.com/en/docs,2,Two Days Ahead
+2026-10-23 01:00:00,35,0.0,2026-10-21 12:05,"Miami, FL",Open-Meteo Weather Forecast API,https://open-meteo.com/en/docs,2,Two Days Ahead
+2026-10-23 02:00:00,35,0.0,2026-10-21 12:05,"Miami, FL",Open-Meteo Weather Forecast API,https://open-meteo.com/en/docs,2,Two Days Ahead
+2026-10-23 03:00:00,22,0.0,2026-10-21 12:05,"Miami, FL",Open-Meteo Weather Forecast API,https://open-meteo.com/en/docs,2,Two Days Ahead
+2026-10-23 04:00:00,22,0.0,2026-10-21 12:05,"Miami, FL",Open-Meteo Weather Forecast API,https://open-meteo.com/en/docs,2,Two Days Ahead
+2026-10-23 05:00:00,22,0.0,2026-10-21 12:05,"Miami, FL",Open-Meteo Weather Forecast API,https://open-meteo.com/en/docs,2,Two Days Ahead
+2026-10-23 06:00:00,22,0.0,2026-10-21 12:05,"Miami, FL",Open-Meteo Weather Forecast API,https://open-meteo.com/en/docs,2,Two Days Ahead
+2026-10-23 07:00:00,22,0.0,2026-10-21 12:05,"Miami, FL",Open-Meteo Weather Forecast API,https://open-meteo.com/en/docs,2,Two Days Ahead
+2026-10-23 08:00:00,22,0.15,2026-10-21 12:05,"Miami, FL",Open-Meteo Weather Forecast API,https://open-meteo.com/en/docs,2,Two Days Ahead
+2026-10-23 09:00:00,24,0.2,2026-10-21 12:05,"Miami, FL",Open-Meteo Weather Forecast API,https://open-meteo.com/en/docs,2,Two Days Ahead
+2026-10-23 10:00:00,24,0.1,2026-10-21 12:05,"Miami, FL",Open-Meteo Weather Forecast API,https://open-meteo.com/en/docs,2,Two Days Ahead
+2026-10-23 11:00:00,24,0.2,2026-10-21 12:05,"Miami, FL",Open-Meteo Weather Forecast API,https://open-meteo.com/en/docs,2,Two Days Ahead
