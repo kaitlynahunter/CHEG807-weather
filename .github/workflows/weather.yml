@@ -28,7 +28,7 @@ jobs:
 
       - name: Collect Miami weather
         env:
-          TEST_MODE: ${{ github.event_name == 'workflow_dispatch' && 'true' || 'false' }}
+          TEST_MODE: "true"
         run: python collect_weather.py
 
       - name: Save weather data
